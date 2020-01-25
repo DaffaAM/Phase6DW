@@ -1,0 +1,25 @@
+<?php
+
+$SUSUN = array ('D','U','M','B','W','A','Y','S');
+$DUMBWAYS = 7;
+function drawLine($DUMBWAYS)
+{
+
+
+//looping spasi
+for ($a = 0; $a <=$DUMBWAYS; $a++) {
+    for ($b = 1; $b <= $a; $b++) {
+        echo "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;";
+
+    }
+    //print kata dumbways
+    for ($c = 1; $c <= 1; $c++) {
+        echo "$SUSUN[$a]";
+        echo "<br>";
+    }
+    echo "<br>";
+}
+
+}
+
+drawLine($DUMBWAYS);
