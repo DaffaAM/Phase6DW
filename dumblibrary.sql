@@ -42,9 +42,9 @@ CREATE TABLE `book_tb` (
 --
 
 INSERT INTO `book_tb` (`id`, `name`, `category_id`, `writer_id`, `Publication_year`, `img`) VALUES
-(1, 'Pemrograman Sistem Pakar', 1, 1, 2017, '1.jpg'),
-(2, 'Belajar Pemrograman Java Untuk Pemula', 2, 2, 2014, '2.png'),
-(3, 'Pemrograman Javascript Untuk Aplikasi WEB', 3, 3, 2019, '3.jpg');
+(1, 'Pemrograman Sistem Pakar', 1, 1, 2017, 'gambar1.jpg'),
+(2, 'Belajar Pemrograman Java Untuk Pemula', 2, 2, 2014, 'gambar2.png'),
+(3, 'Pemrograman Javascript Untuk Aplikasi WEB', 3, 3, 2019, 'gambar3.jpg');
 
 -- --------------------------------------------------------
 
