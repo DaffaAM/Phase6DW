@@ -1,2 +1,3 @@
 # Phase6DW
-Dumbways phase 6
+
+Untuk No 1-3 dapat dijalankan di http://www.writephponline.com/
